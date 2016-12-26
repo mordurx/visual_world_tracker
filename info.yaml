@@ -1,0 +1,19 @@
+author: Guido mellado
+description: visual world extenstion
+icon: applications-accessories
+label: visual world extension
+priority: -1
+menu:
+  index: 0
+  separator_after: false
+  separator_before: false
+  submenu: Example
+settings:
+  example_setting: some value
+toolbar:
+  index: -1
+  separator_after: false
+  separator_before: true
+tooltip: visual world tooltip
+url: http://osdoc.cogsci.nl
+version: 1.0.0
